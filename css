@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.carousel-caption h3 {
+    font-size: 1.2rem;
+}
+
+footer {
+    font-size: 0.9rem;
+}
